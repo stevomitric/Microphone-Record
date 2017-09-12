@@ -7,7 +7,7 @@
 		
 		--rate NUM		- sets recording rate (default: 10000)
 		--format NUM		- available: (8 (default), 4, 2)
-		--chunk	NUM	- Chunk size to read (default: 1024)
+		--chunk NUM		- Chunk size to read (default: 1024)
 		--saveto PATH		- Saves the recording in a file
 		--recordfor NUM	- Records for NUM seconds
 		--noautosave		- Saves into file after recording is done
@@ -23,7 +23,7 @@
 		
 		File from "readfromfile" argument, you must define as follows:
 		
-		time: 1504037551
+		time: 2504037551
 		rate: 10000
 		format: 8
 		chunk: 1024
